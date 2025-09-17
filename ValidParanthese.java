@@ -22,28 +22,39 @@ Example 5:
 Input: s = "([)]"
 Output: false */
 import java.util.*;
-class Solution {
+
+public class ValidParanthese {
     public boolean isValid(String s) {
-        if(s.length() % 2 != 0){
+        if (s.length() % 2 != 0) {
             return false;
         }
-        Stack<Character> Stack = new Stack<>();
-        for(char c: s.toCharArray()){
-            if(c == '('){
-                Stack.push(')');
-            }
-            else if(c == '{'){
-                Stack.push('}');
-            }
-            else if(c == '['){
-                Stack.push(']');
-            }
-            else if(Stack.isEmpty() || Stack.pop()!= c){
+        Stack<Character> stack = new Stack<>();
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                stack.push(')');
+            } else if (c == '{') {
+                stack.push('}');
+            } else if (c == '[') {
+                stack.push(']');
+            } else if (stack.isEmpty() || stack.pop() != c) {
                 return false;
             }
         }
-        return Stack.isEmpty();
+        return stack.isEmpty();
+    }
+
+    public static void main(String[] args) {
+        ValidParanthese sol = new ValidParanthese();
+
+        String s1 = "()[]{}";
+        String s2 = "(]";
+        String s3 = "([{}])";
+
+        System.out.println(s1 + " -> " + sol.isValid(s1)); // true
+        System.out.println(s2 + " -> " + sol.isValid(s2)); // false
+        System.out.println(s3 + " -> " + sol.isValid(s3)); // true
     }
 }
+
 
 
