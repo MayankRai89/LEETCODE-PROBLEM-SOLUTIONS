@@ -29,6 +29,27 @@ public class DeleteNthnode {
         temp.next = newNode;
     }
 
+    // METHOD TO DELETE Nth NODE FROM LINKEDLIST
+    public void deleteNth(int key) {
+        if (head == null) {
+            System.out.println("List is empty");
+            return;
+        }
+        Node temp = head;
+        if (key == 0) {
+            head = head.next;
+        }
+        for (int i = 0; i < key - 1 && temp != null; i++) {
+            temp = temp.next;
+        }
+        if (temp == null || temp.next == null) {
+            System.out.println("Invalid Position");
+            return;
+        }
+
+        temp.next = temp.next.next;
+    }
+
     // METHOD TO DISPLAY LINKEDLIST
     public void display() {
         if (head == null) {
@@ -54,6 +75,8 @@ public class DeleteNthnode {
         list.insert(50);
         list.insert(60);
         list.insert(70);
+        list.display();
+        list.deleteNth(5);
         list.display();
 
     }
