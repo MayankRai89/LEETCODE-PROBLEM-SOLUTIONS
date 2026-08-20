@@ -48,6 +48,22 @@ public class QueueUsingArray {
             return arr[0];
         }
 
+        // display
+        public static void display() {
+            if (isEmpty()) {
+                System.out.println("Queue is Empty");
+                return;
+            }
+
+            System.out.print("Queue: ");
+
+            for (int i = 0; i <= rear; i++) {
+                System.out.print(arr[i] + " ");
+            }
+
+            System.out.println();
+        }
+
     }
 
     public static void main(String args[]) {
@@ -57,6 +73,12 @@ public class QueueUsingArray {
         q.add(2);
         q.add(3);
         q.add(4);
+
+        q.display();
         System.out.println("Front: " + q.peek());
+        System.out.println("Removed: " + q.remove());
+        System.out.println("Front: " + q.peek());
+        q.add(6);
+        q.display();
     }
 }
