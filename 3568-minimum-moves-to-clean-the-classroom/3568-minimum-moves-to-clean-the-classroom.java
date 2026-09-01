@@ -20,7 +20,6 @@ class Solution {
 
         int startR = 0, startC = 0;
 
-        // Give every litter cell an index
         int[][] litterIndex = new int[m][n];
         for (int[] row : litterIndex) {
             Arrays.fill(row, -1);
@@ -44,18 +43,12 @@ class Solution {
             }
         }
 
-        // No litter to collect
         if (litterCount == 0) {
             return 0;
         }
 
         int fullMask = (1 << litterCount) - 1;
 
-        /*
-         * visited[r][c][mask][energy]
-         *
-         * energy can be 0 ... energy
-         */
         boolean[][][][] visited =
                 new boolean[m][n][1 << litterCount][energy + 1];
 
@@ -73,19 +66,13 @@ class Solution {
 
             int size = queue.size();
 
-            // Process one BFS level
             while (size-- > 0) {
 
                 State curr = queue.poll();
 
-                // All litter collected
                 if (curr.mask == fullMask) {
                     return moves;
                 }
-
-                // If energy is 0, we cannot make another move.
-                // The only way to continue would have been to
-                // enter an R cell and reset energy.
                 if (curr.energy == 0) {
                     continue;
                 }
@@ -95,12 +82,10 @@ class Solution {
                     int nr = curr.r + dr[d];
                     int nc = curr.c + dc[d];
 
-                    // Outside grid
                     if (nr < 0 || nr >= m || nc < 0 || nc >= n) {
                         continue;
                     }
 
-                    // Obstacle
                     if (classroom[nr].charAt(nc) == 'X') {
                         continue;
                     }
@@ -110,13 +95,11 @@ class Solution {
 
                     char cell = classroom[nr].charAt(nc);
 
-                    // Collect litter
                     if (cell == 'L') {
                         int index = litterIndex[nr][nc];
                         newMask |= (1 << index);
                     }
 
-                    // Reset energy
                     if (cell == 'R') {
                         newEnergy = energy;
                     }
