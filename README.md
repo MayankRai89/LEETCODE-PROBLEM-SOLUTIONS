@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
