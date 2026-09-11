@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -30,8 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0025-reverse-nodes-in-k-group) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
