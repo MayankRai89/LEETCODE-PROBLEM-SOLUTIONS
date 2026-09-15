@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0094-binary-tree-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
