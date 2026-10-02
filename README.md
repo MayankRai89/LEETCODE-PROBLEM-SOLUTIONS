@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
