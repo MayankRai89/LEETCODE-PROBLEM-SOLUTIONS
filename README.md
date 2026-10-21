@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0185-department-top-three-salaries) |
 | [0550-game-play-analysis-iv](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0596-classes-with-at-least-5-students) |
