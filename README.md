@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0049-group-anagrams) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0101-symmetric-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
