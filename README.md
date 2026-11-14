@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0189-rotate-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0189-rotate-array) |
 | [3870-count-commas-in-range](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -144,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
