@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0179-largest-number) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
