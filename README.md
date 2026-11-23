@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0179-largest-number](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0189-rotate-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0189-rotate-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [3870-count-commas-in-range](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0189-rotate-array) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
