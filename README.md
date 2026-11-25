@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
+| [3934-smallest-unique-subarray](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3934-smallest-unique-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3934-smallest-unique-subarray](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -173,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/MayankRai89/LEETCODE-PROBLEM-SOLUTIONS/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
